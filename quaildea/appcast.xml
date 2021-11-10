@@ -5,7 +5,7 @@
 ><channel><title>Quaildea</title><language>en</language><item><title
       >Quaildea 0.2.3</title><pubDate
       >Wed, 10 Nov 2021 14:52:05 +07:00</pubDate><enclosure
-        url="https://raw.githubusercontent.com/Teguhpunya/quaildea_builds/main/app-arm64-v8a-release-0.2.3.apk"
+        url="https://github.com/Teguhpunya/quaildea_builds/raw/main/app-arm64-v8a-release-0.2.3.apk"
         sparkle:version="0.2.3"
         sparkle:shortVersionString="0.2"
         length="8098371"
