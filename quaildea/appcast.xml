@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss
+  version="2.0"
+  xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+><channel><title>Quaildea</title><language>en</language><item><title
+      >Quaildea 0.2.3</title><pubDate
+      >Wed, 10 Nov 2021 14:52:05 +07:00</pubDate><enclosure
+        url="https://raw.githubusercontent.com/Teguhpunya/quaildea_builds/main/app-arm64-v8a-release-0.2.3.apk"
+        sparkle:version="0.2.3"
+        sparkle:shortVersionString="0.2"
+        length="8098371"
+        type="application/vnd.android.package-archive"
+      /></item></channel></rss>
